@@ -1,9 +1,12 @@
+body {
+  padding: 2%
+}
 #logo {
   font-family: 'Bungee Shade';
   font-size: 6vw;
   line-height: 8vw;
 }
 #thicc {
- width:90%;
- border-top:3px solid black;
+ width:95%;
+ border-top: 2px solid black;
 }
