@@ -1,12 +1,26 @@
 body {
-  padding: 2%
+  padding-left: 2%;
+  padding-right: 2%;
+}
+#main_block {
+  font-size: 1vw;
 }
 #logo {
   font-family: 'Bungee Shade';
   font-size: 6vw;
   line-height: 8vw;
 }
+#sub_heading {
+  font-family: 'Satisfy';
+  font-size: 3vw;
+  padding-bottom: 8px;
+}
 #thicc {
  width:95%;
  border-top: 2px solid black;
+ padding-bottom: 8px;
+}
+#text_block{
+  padding-left: 2vw;
+  padding-right: 2vw;
 }
