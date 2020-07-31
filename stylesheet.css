@@ -21,6 +21,7 @@ body {
  padding-bottom: 8px;
 }
 #text_block{
+  font-family: 'Source Code Pro'
   padding-left: 2vw;
   padding-right: 2vw;
 }
